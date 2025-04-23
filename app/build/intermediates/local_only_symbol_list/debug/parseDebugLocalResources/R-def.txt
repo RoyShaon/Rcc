@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color primary
+color primary_dark
+color secondary
+color secondary_dark
+color white
+id appBarLayout
+id openFileButton
+id progressBar
+id toolbar
+layout activity_main
+style Theme.RoyCadDWGViewer
